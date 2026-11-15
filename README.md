@@ -18,3 +18,8 @@ It leverages the Aptoide repos as well as the pkg backend for CLI binaries.
 **Warnings and Precautions**
 Always be careful about what you install as the Aptoide repo is not completely safe from malicious apps nor was any repo historically on other systems as well
 so use responsibly and always do `epm search` to check the provider name of the package to be sure its what you want.
+
+**Installation**
+1) To install the package manager on your system, dowload the epm.sh on your termux home directory
+2) Then do `chmod +x epm.sh
+3) Finally create an alias in `.bashrc` `alias epm="chmod +x /data/data/com.termux/files/home/epm.sh && /data/data/com.termux/files/home/epm.sh"`
