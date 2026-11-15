@@ -26,4 +26,4 @@ so use responsibly and always do `epm search` to check the provider name of the 
 
 **Screenshots**
 <br>
-<img width="50%" alt="image" src="search1.png" />
+<img width="50%" alt="image" src="install.png" />
