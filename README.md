@@ -30,8 +30,7 @@ so use responsibly and always do `epm search` to check the provider name of the 
 <img width="70%" alt="image" src="results.png" /><br>
 <img width="70%" alt="image" src="clean.png" />
 
-## License
-
-**Copyright © 2026 AndronikosGl — All Rights Reserved.**
-This project is **source-available**. You are welcome to view and run this script for personal use, but **copying, modifying, redistributing, or reposting this code as your own is strictly prohibited** without explicit permission. 
+## Copyright and Licensing
+Copyright © AndronikosGl 2026. All rights reserved.
+This project is source-available. Modification and redistribution are not permitted.
 *Disclaimer: Enhanced Package Manager (EPM) is an independent tool and is not affiliated with, endorsed by, or officially connected to Termux or Aptoide.*
