@@ -21,5 +21,5 @@ so use responsibly and always do `epm search` to check the provider name of the 
 
 **Installation**
 1) To install the package manager on your system, dowload the epm.sh on your termux home directory
-2) Then do `chmod +x epm.sh
+2) Then do `chmod +x epm.sh`
 3) Finally create an alias in `.bashrc` `alias epm="chmod +x /data/data/com.termux/files/home/epm.sh && /data/data/com.termux/files/home/epm.sh"`
