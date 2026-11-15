@@ -8,12 +8,12 @@ It leverages the Aptoide repos as well as the pkg backend for CLI binaries.
 - `epm about` Shows a brief information about this project
 - `epm clean` Cleans any garbadge apk files if the download process was interrupted or you want to remove the downloaded files
 - `epm help` Shows the available commands and what each one does
-- `epm list` Lists all apk pacakges and cli ones on the system together
+- `epm list` Lists all apk packges and cli ones on the system together
 - `epm search <name>` Searches for a package by that name on both Termux and Aptoide repos showing name, and provider
 
 **Root features for GUI pacakges (apk)**
 - If `epm install/remove` is called on a NON rooted device it will launch the default Android's package dialog and you would have to proceed manually
-- If `epm install/remove` is called on a ROOTED device, it will leverage Android's pacakaging system `pm` for those operations
+- If `epm install/remove` is called on a ROOTED device, it will leverage Android's packaging system `pm` for those operations
 
 **Warnings and Precautions**
 
@@ -21,7 +21,7 @@ Always be careful about what you install as the Aptoide repo is not completely s
 so use responsibly and always do `epm search` to check the provider name of the package to be sure its what you want.
 
 **Installation**
-1) To install the package manager on your system, dowload the epm.sh on your termux home directory
+1) To install the package manager on your system, download the epm.sh on your termux home directory
 2) Then do `chmod +x epm.sh`
 3) Finally create an alias in `.bashrc` `alias epm="chmod +x /data/data/com.termux/files/home/epm.sh && /data/data/com.termux/files/home/epm.sh"`
 
