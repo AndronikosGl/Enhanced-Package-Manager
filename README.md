@@ -33,5 +33,5 @@ so use responsibly and always do `epm search` to check the provider name of the 
 
 ## Copyright and Licensing
 Copyright © AndronikosGl 2026. All rights reserved.
-This project is source-available. Modification and redistribution are not permitted.
+This project is source-available. Modification and redistribution are not permitted.<br>
 *Disclaimer: Enhanced Package Manager (EPM) is an independent tool and is not affiliated with, endorsed by, or officially connected to Termux or Aptoide.*
