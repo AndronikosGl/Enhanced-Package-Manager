@@ -25,5 +25,5 @@ so use responsibly and always do `epm search` to check the provider name of the 
 3) Finally create an alias in `.bashrc` `alias epm="chmod +x /data/data/com.termux/files/home/epm.sh && /data/data/com.termux/files/home/epm.sh"`
 
 **Screenshots**
-<br>
+<br><br>
 <img width="50%" alt="image" src="Search.png" />
