@@ -258,7 +258,7 @@ about() {
 
     echo -e "\n\e[0;33mThis is an unofficial repo based package manager for Android."
     echo -e "It enhances the native android package manager (pm) with online repos like any other distro."
-    echo -e "\nVersion 2.0 2025\nType \"epm help\" for usage\nPowered by Aptoide and Termux repos\e[0m"
+    echo -e "\nVersion 1.0 2026\nType \"epm help\" for usage\nPowered by Aptoide and Termux repos\e[0m"
 }
 
 # Main script logic
