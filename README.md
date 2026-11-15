@@ -3,7 +3,7 @@ A solution for Android and Termux trying to bridge the gap between apk GUI apps 
 It leverages the Aptoide repos as well as the pkg backend for CLI binaries.
 
 **Features**
-- `epm install <name>` Installs a apk or pkg pacakges by name
+- `epm install <name>` Installs an apk or pkg package by name
 - `epm remove <name>` Removes an existing apk or pkg package by name
 - `epm about` Shows a brief information about this project
 - `epm clean` Cleans any garbadge apk files if the download process was interrupted or you want to remove the downloaded files
@@ -13,7 +13,7 @@ It leverages the Aptoide repos as well as the pkg backend for CLI binaries.
 
 **Root features for GUI pacakges (apk)**
 - If `epm install/remove` is called on a NON rooted device it will launch the default Android's package dialog and you would have to proceed manually
-- If `epm install/remove` is called on a ROOTED device, it will leverage Android's pacakaging system `pm` for those oparations
+- If `epm install/remove` is called on a ROOTED device, it will leverage Android's pacakaging system `pm` for those operations
 
 **Warnings and Precautions**
 Always be careful about what you install as the Aptoide repo is not completely safe from malicious apps nor was any repo historically on other systems as well
