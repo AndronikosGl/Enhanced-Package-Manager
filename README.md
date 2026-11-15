@@ -1,4 +1,4 @@
-## <img width="35" height="35" alt="image" src="logo.png" />  Enhanced Package Manager (EPM)
+## <img width="45" height="45" alt="image" src="logo.png" />  Enhanced Package Manager (EPM)
 A solution for Android and Termux trying to bridge the gap between apk GUI apps and pkg CLI binaries into one single package manager. 
 It leverages the Aptoide repos as well as the pkg backagend for CLI binaries.
 
