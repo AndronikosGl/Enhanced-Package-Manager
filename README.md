@@ -7,7 +7,7 @@ A unified package manager for Android and Termux that bridges the gap between GU
 - `epm about` Shows a brief information about this project
 - `epm clean` Cleans any garbadge apk files if the download process was interrupted or you want to remove the downloaded files
 - `epm help` Shows the available commands and what each one does
-- `epm list` Lists all apk packges and cli ones on the system together, if --showsystem it also lists system packages and apps
+- `epm list` Lists all apk packges and cli ones on the system together, if `--showsystem` it also lists system packages and apps
 - `epm search <name>` Searches for a package by that name on both Termux and Aptoide repos showing name, and provider
 - `epm update` Updates all cli and apk packages on the system
 - Ability to use a `.pkgignore` on your termux home directory to ignore specific cli and apk packages from being updated (formatted as a list one package name per line).
