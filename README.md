@@ -1,5 +1,5 @@
 ## <img width="45" height="45" alt="image" src="logo.png" />  Enhanced Package Manager (ePM)
-A solution for Android and Termux trying to bridge the gap between apk GUI apps and pkg CLI binaries into one single package manager. Built to give Android a complete package management experience, something it always lacked due to the OS restrictions. It leverages the Aptoide repos as well as the pkg backend for CLI binaries.
+A unified package manager for Android and Termux that bridges the gap between GUI apk apps and CLI pkg binaries. Built to give Android the complete package management experience it has always lacked due to OS restrictions, seamlessly integrating Aptoide repositories with Termux's pkg backend into a single workflow.
 
 **Features**
 - `epm install <name>` Installs an apk or pkg package by name
